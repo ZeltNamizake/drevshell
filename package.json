@@ -1,0 +1,18 @@
+{
+  "name": "drevshell",
+  "version": "1.0.0",
+  "description": "",
+  "main": "drevshell.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@ngrok/ngrok": "^1.5.0",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0"
+  }
+}
